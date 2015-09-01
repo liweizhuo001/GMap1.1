@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1440918611930" name="file:/F:/TDDOWNLOAD/I3CON/modified_ontology/russiaA.owl" uri="russiaA.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1440918611930" name="file:/F:/TDDOWNLOAD/I3CON/modified_ontology/russiaB.owl" uri="russiaB.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1440918611930" name="http://cmt" uri="cmt.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1440918611930" name="http://conference" uri="Conference.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1440918611930" name="http://confOf" uri="confOf.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1440918611930" name="http://ekaw" uri="ekaw_filled.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1440918611930" name="http://human.owl" uri="human.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1440918611930" name="http://iasted" uri="iasted_filled.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1440918611930" name="http://mouse.owl" uri="mouse.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1440918611930" name="http://oaei.ontologymatching.org/2011/benchmarks/101/onto.rdf#" uri="101onto.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1440918611930" name="http://oaei.ontologymatching.org/2011/benchmarks/223/onto.rdf#" uri="223onto.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1440918611930" name="http://sigkdd" uri="sigkdd.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1440918611930" name="http://www.atl.lmco.com/projects/ontology/ontologies/people+pets/people+petsA.owl" uri="people+petsA.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1440918611930" name="http://www.atl.lmco.com/projects/ontology/ontologies/people+pets/people+petsB.owl" uri="people+petsB.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1440918611930" name="http://www.buildingsmart-tech.org/ifcOWL" uri="IFC4_ADD1.owl"/>
+    </group>
+</catalog>
