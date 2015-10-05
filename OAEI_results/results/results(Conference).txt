@@ -1,0 +1,23 @@
+Test Case ID	Run Time	Precision	Recall	F-measure	Notes
+cmt-conference	9618	0.688	0.733	0.71	-
+cmt-confof	3893	0.667	0.375	0.48	-
+cmt-edas	6140	0.727	0.615	0.666	-
+cmt-ekaw	4715	0.6	0.545	0.571	-
+cmt-iasted	7318	0.571	1.0	0.727	-
+cmt-sigkdd	2974	0.769	0.833	0.8	-
+conference-confof	4291	0.75	0.8	0.774	-
+conference-edas	7057	0.478	0.647	0.55	-
+conference-ekaw	5079	0.609	0.56	0.583	-
+conference-iasted	7052	0.7	0.5	0.583	-
+conference-sigkdd	3451	0.8	0.8	0.8	-
+confof-edas	5316	0.6	0.632	0.616	-
+confof-ekaw	4309	0.81	0.85	0.83	-
+confof-iasted	5232	0.545	0.667	0.6	-
+confof-sigkdd	2727	0.833	0.714	0.769	-
+edas-ekaw	6678	0.583	0.609	0.596	-
+edas-iasted	12670	0.818	0.474	0.6	-
+edas-sigkdd	5131	0.778	0.467	0.584	-
+ekaw-iasted	7430	0.5	0.7	0.583	-
+ekaw-sigkdd	3370	0.8	0.727	0.762	-
+iasted-sigkdd	5018	0.6	0.8	0.686	-
+Global	119469	0.662	0.649	0.655	-

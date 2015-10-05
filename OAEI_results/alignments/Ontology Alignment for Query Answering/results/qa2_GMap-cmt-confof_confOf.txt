@@ -1,0 +1,13 @@
+[http://xmlns.com/foaf/0.1#NaohisaOhta,
+ http://xmlns.com/foaf/0.1#YoshitsuguKakemoto,
+ http://xmlns.com/foaf/0.1#VittorioMurino,
+ http://xmlns.com/foaf/0.1#PieroOlivio,
+ http://xmlns.com/foaf/0.1#SvanteLinusson,
+ http://xmlns.com/foaf/0.1#MaritaFranzke,
+ http://xmlns.com/foaf/0.1#KaushikRoy,
+ http://xmlns.com/foaf/0.1#DavidGilbert,
+ http://xmlns.com/foaf/0.1#AntonioGarrido,
+ http://xmlns.com/foaf/0.1#Yao-WenChang,
+ http://xmlns.com/foaf/0.1#DomenicoLaforenza,
+ http://xmlns.com/foaf/0.1#Kwang-BaekKim,
+ http://xmlns.com/foaf/0.1#DylanSchmorrow]
